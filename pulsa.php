@@ -4,8 +4,8 @@
 $userid='1988';
 //unique short ckup copy url blakang nya nya aja cuk
 $short='http://linkpulsa.co/go/QY1ZG';
-$req='isi jumlah request cuk';
-$delay='isi mau berapa detik cuk';
+$req='10000';
+$delay='5';
 dbglinkpulsa($short,$userid,$req,$delay);
 
 //beres cuk tinggal run :v
