@@ -3,7 +3,7 @@
 //userid bisa di lihat di menu ref
 $userid='1988';
 //unique short ckup copy url blakang nya nya aja cuk
-$short='http://linkpulsa.co/go/QY1ZG';
+$short='http://linkpulsa.co/go/ADdIj';
 $req='10000';
 $delay='5';
 dbglinkpulsa($short,$userid,$req,$delay);
